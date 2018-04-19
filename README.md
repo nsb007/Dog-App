@@ -8,9 +8,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Jupyter Notebook
-Python 2.7
-Libraries used: pandas, numpy, sklearn, Keras, glob, matplotlib
+- Jupyter Notebook
+- Python 2.7
+- **Libraries used:** pandas, numpy, sklearn, Keras, glob, matplotlib
 
 ### Installing
 
