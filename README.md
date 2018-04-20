@@ -41,7 +41,9 @@ python jupyter dog_app_cnn.ipynb
 
 or 
 
-click [here](https://github.com/nsb007/Dog-App/blob/master/dog_app_cnn.ipynb)
+
+_click [here](https://github.com/nsb007/Dog-App/blob/master/dog_app_cnn.ipynb)
+
 
 ### Sample Output
 
